@@ -1,0 +1,32 @@
+.header {
+    background-color: #282c34; /* Dark background color */
+    color: white; /* Text color */
+    padding: 10px; /* Spacing around the header */
+  }
+  
+  .header-content {
+    display: flex;
+    justify-content: space-between; /* Space between title and navigation */
+    align-items: center; /* Center items vertically */
+  }
+  
+  nav ul {
+    list-style: none; /* Remove bullet points from list */
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+    display: flex; /* Display list items in a row */
+  }
+  
+  nav ul li {
+    margin-left: 20px; /* Spacing between links */
+  }
+  
+  nav ul li a {
+    color: white; /* Link color */
+    text-decoration: none; /* Remove underline from links */
+  }
+  
+  nav ul li a:hover {
+    text-decoration: underline; /* Underline on hover */
+  }
+  

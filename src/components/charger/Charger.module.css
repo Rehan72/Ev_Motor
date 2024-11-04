@@ -1,0 +1,27 @@
+/* Charger.module.css */
+.chargerContainer {
+   display: flex;
+   flex-direction: row;
+   align-items: center;
+   padding: 20px;
+   background-color: #f9f9f9; /* Light background for contrast */
+ }
+ 
+ .chargerList {
+   /* width: 100%;
+   max-width: 800px; 
+   margin-bottom: 20px; 
+   border: 1px solid #ddd; 
+   border-radius: 8px; 
+   background-color: #fff; 
+   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);  */
+ }
+ 
+ .map {
+  display: flex;
+   flex-direction: row;
+   align-items: center;
+   padding: 20px;
+   background-color: #f9f9f9;
+ }
+ 
